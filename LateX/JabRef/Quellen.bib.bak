@@ -1,0 +1,461 @@
+@Article{BWEZahlenundFakten,
+  author   = {BWE},
+  journal  = {BWE Infos},
+  title    = {Info 2: Zahlen und Fakten zur Windenergie},
+  year     = {28.02.2002},
+  note     = {Zuletzt abgerufen am 31.07.2022.},
+  abstract = {Entwicklung der Windenergienutzung - Ausbau und Stand der Windenergie in Deutschland und den Ländern - Weltweite Nut- zung der Windenergie - Kosten der Windenergie - Leistung der
+Windenergie - Schadstoffeinsparungen - Externe Kosten - Volkswirtschaftlicher Nutzen - Emissionen},
+  url      = {{\url{https://www.bund-lemgo.de/download/zahlen-fakten-windenergie-bwe-info.pdf}}},
+}
+
+@Misc{StrEG1991,
+  author       = {Bundesregierung},
+  howpublished = {\url{https://www.clearingstelle-eeg-kwkg.de/gesetz/294}},
+  note         = {, zuletzt abgerufen am 28.09.2022.},
+  title        = {{Stromeinspeisungsgesetz vom 7. Dezember 1990 (BGBl. I S. 2633), geändert durch Artikel 5 des Gesetzes vom 19. Juli 1994 (BGBl. I S. 1618)}},
+  year         = {01.01.1991},
+  url          = {https://www.clearingstelle-eeg-kwkg.de/gesetz/294},
+}
+
+@Misc{DBB,
+  author       = {o.V.},
+  howpublished = {\url{https://www.bundesbank.de/de/aufgaben/bargeld/dm-banknoten-und-muenzen/-/umtausch-von-dm-in-euro-599338}},
+  note         = {,zuletzt abgerufen am 04.08.2022.},
+  title        = {Umtausch von DM in Euro},
+  year         = {o.J.},
+  url          = {https://www.bundesbank.de/de/aufgaben/bargeld/dm-banknoten-und-muenzen/-/umtausch-von-dm-in-euro-599338},
+}
+
+@Book{Hau2016,
+  author    = {Erich Hau},
+  publisher = {Springer Berlin Heidelberg},
+  title     = {Windkraftanlagen},
+  year      = {2016},
+  doi       = {10.1007/978-3-662-53154-9},
+}
+
+@Misc{DWG19,
+  author       = {{Deutsche Windguard GmbH}},
+  howpublished = {{\url{https://www.erneuerbare-energien.de/EE/Redaktion/DE/Downloads/bmwi_de/deutsche-windguard-vorbereitung-begleitung-erfahrungsbericht-eeg.pdf?__blob=publicationFile&v=7}}},
+  note         = {, zuletzt abgerufen am 29.09.2022.},
+  title        = {{Vorbereitung und Begleitung bei der Erstellung eines Erfahrungsberichts gemäß § 97 Erneuer- bare-Energien-Gesetz, Teilvorhaben II e): Wind an Land}},
+  year         = {03.2019},
+}
+
+@Book{Boettcher2019,
+  editor    = {Jörg Böttcher},
+  publisher = {De Gruyter},
+  title     = {Handbuch Windenergie},
+  year      = {2019},
+  month     = {oct},
+  doi       = {10.1515/9783110583922},
+}
+
+@TechReport{DWG2021,
+  author = {{Deutsche Windguard GmbH}},
+  title  = {Status des Windenergieausbaus an Land in Deutschland Jahr 2021},
+  year   = {2021},
+  note   = {zuletzt abgerufen am 10.09.2022.},
+  type   = {techreport},
+  url    = {\url{https://www.windguard.de/veroeffentlichungen.html?file=files/cto_layout/img/unternehmen/veroeffentlichungen/2022/Status des Windenergieausbaus an Land_Jahr 2021.pdf}},
+}
+
+@Article{DeutscherBundestag2008,
+  author = {{Bundestag}},
+  title  = {Plenarprotokoll 16/167},
+  year   = {2008},
+  month  = jun,
+  url    = {\url{https://dip.bundestag.de/vorgang/.../11767}},
+}
+
+@Misc{Bundesrat2015,
+  author       = {Bundesrat},
+  howpublished = {\url{https://www.bundesrat.de/SharedDocs/beratungsvorgaenge/2015/0501-0600/0511-15.html}},
+  title        = {{Beschluss des Bundesrat, BR-Drucksache 511/15}},
+  year         = {29.10.2015},
+}
+
+@Misc{WIKI.LDGDOW,
+  author       = {Wikipedia},
+  howpublished = {\url{https://de.wikipedia.org/wiki/Liste_der_größten_deutschen_Onshore-Windparks}},
+  note         = {, zuletzt abgerufen am 11.09.2022.},
+  title        = {Liste der größten deutschen Onshore-Windparks},
+  year         = {19.08.2022},
+}
+
+@Book{Gasch2016,
+  author    = {Gasch, Twele},
+  publisher = {Springer-Verlag GmbH},
+  title     = {Windkraftanlagen},
+  year      = {2016},
+  isbn      = {3658123605},
+  month     = may,
+  ean       = {9783658123604},
+  url       = {https://www.ebook.de/de/product/25815690/windkraftanlagen.html},
+}
+
+@Misc{KFE,
+  author       = {KfW},
+  howpublished = {\url{https://www.kfw-formularsammlung.de/KonditionenanzeigerINet/KonditionenAnzeiger}},
+  title        = {{Konditionenübersicht für Endkreditnehmer}},
+  year         = {07.09.2022},
+}
+
+@Book{Heier2022,
+  author    = {Siegfried Heier},
+  publisher = {Springer Fachmedien Wiesbaden},
+  title     = {Windkraftanlagen},
+  year      = {2022},
+  doi       = {10.1007/978-3-658-36570-7},
+}
+
+@Misc{DIN1991,
+  author = {{DIN EN 1991-1-4/NA:2010-12}},
+  title  = {Nationaler Anhang –National festgelegte Parameter –Eurocode 1: Einwirkungen auf Tragwerke – Teil 1-4: Allgemeine Einwirkungen - Windlasten},
+  year   = {12.2010},
+}
+
+@Misc{DIBt2015,
+  author       = {{Deutsches Institut für Bautechnik}},
+  howpublished = {\url{https://www.dibt.de/fileadmin/dibt-website/Dokumente/Referat/I8/Windenergieanlagen_Richtlinie_korrigiert.pdf}},
+  title        = {Richtlinie für WindenergieanlagenEinwirkungen und Standsicherheitsnachweise für Turm und Gründung, Korrigierte Fassung},
+  year         = {03.2015},
+}
+
+@Book{Kusiek2022,
+  author    = {Kusiek, Arne},
+  publisher = {Hanser, Carl GmbH + Co.},
+  title     = {Windenergieanlagen},
+  year      = {2022},
+  month     = jan,
+  ean       = {9783446472877},
+  pagetotal = {366},
+  url       = {https://www.ebook.de/de/product/42061047/arne_kusiek_windenergieanlagen.html},
+}
+
+@Misc{ErtragM,
+  author = {Vincent Vellguth},
+  note   = {Matlab Code},
+  title  = {ErtragRechnung.m},
+  year   = {08.2022},
+}
+
+@Misc{FGWT2,
+  author       = {{Fördergesellschaft Windenergie}},
+  howpublished = {\url{https://wind-fgw.de/themen/richtlinienarbeit/}},
+  note         = {abgerufen am 15.09.2022.},
+  title        = {TEIL 2 (TR 2)Bestimmung von Leistungskennlinien und standardisierten Energieerträgen},
+  year         = {07.03.2018},
+  type         = {techreport},
+}
+
+@Misc{KostenM,
+  author = {Vincent Vellguth},
+  note   = {Matlab Code},
+  title  = {Kostenrechnung.m},
+  year   = {08.2022},
+}
+
+@Misc{WindEuro,
+  author = {Landtag Brandenburg},
+  title  = {Gesetz zur Zahlung einer Sonderabgabe an Gemeinden im Umfeld von Windenergieanlagen (Windenergieanlagenabgabengesetz - BbgWindAbgG), (GVBl.I/19, [Nr. 30])},
+  year   = {19.06.2019},
+}
+
+@Misc{FinanzM,
+  author = {Vincent Vellguth},
+  note   = {Matlab Code},
+  title  = {Finanzierung.m},
+  year   = {08.2022},
+}
+
+@Misc{MatLive,
+  author       = {{The Mathworkds inc.}},
+  howpublished = {{\url{https://de.mathworks.com/help/matlab/matlab_prog/}}},
+  note         = {zuletzt abgerufen am 21.09.2022},
+  title        = {What is a Live script or Function?},
+  year         = {o.J.},
+  url          = {https://de.mathworks.com/help/matlab/matlab_prog/what-is-a-live-script-or-function.html},
+}
+
+@Article{Krewitt2006,
+  author = {Krewitt, Wolfram and Schlomann, Barbara},
+  title  = {Externe Kosten der Stromerzeugung aus erneuerbaren Energien im Vergleich zur Stromerzeugung aus fossilen Energietr{\"a}gern},
+  year   = {2006},
+}
+
+@Book{Sinn2012,
+  author    = {Hans-Werner Sinn},
+  publisher = {Berlin: Ullstein.},
+  title     = {Das grüne Paradoxon. Plädoyer für eine illusionsfreie Klimapolitik.},
+  year      = {2012},
+}
+
+@Misc{StBund2022,
+  author       = {{Statistisches Bundesamt}},
+  howpublished = {{\url{https://www.destatis.de/DE/Presse/Pressemitteilungen/2022/09/PD22_374_43312.html}}},
+  note         = {zuletzt abgerufen am 21.09.2022.},
+  title        = {Pressemitteilung Nr. 374 vom 7. September 2022. Stromerzeugung im 1. Halbjahr 2022.},
+  year         = {07.09.2022},
+  url          = {https://www.destatis.de/DE/Presse/Pressemitteilungen/2022/09/PD22_374_43312.html},
+}
+
+@Misc{Energy2022,
+  author       = {Fraunhofer-Gesellschaft},
+  howpublished = {{\url{https://www.energy-charts.info/charts/energy/chart.htm?l=de&c=DE&chartColumnSorting=default&interval=halfyear&legendItems=00100111100000010000}}},
+  note         = {zuletzt abgerufen am 21.09.2022.},
+  title        = {Energy Charts, Öffentliche Nettostromerzeugung in Deutschland im Halbjahr 2 2022},
+}
+
+@Misc{NetzT2022,
+  author       = {Netztransparenz},
+  howpublished = {{\url{https://www.netztransparenz.de/portals/1/Aktuelle_Daten_zu_den_Einnahmen-_und_Ausgabenpositionen_nach_EEAV_August_2022.pdf}}},
+  note         = {Stand 31. August 2022},
+  title        = {Aktuelle Angaben der Übertragungsnetzbetreiberzu den Einnahmen- und Ausgabenpositionen nach § 3 (1) EEAV},
+  year         = {31.08.2022},
+}
+
+@Misc{BNetzA2022,
+  author       = {Bundesnetzagentur},
+  howpublished = {{\url{https://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Ausschreibungen/Wind_Onshore/Gebotstermin01052022/artikel.html}}},
+  note         = {, zuletzt abgerufen am 23.09.2022},
+  title        = {Zuschläge für das Ausschreibungsverfahren EEG Wind, Gebotstermin 1. Mai 2022},
+  year         = {07.06.2022},
+}
+
+@Misc{BLK2021,
+  author       = {{Bund-Länder-Kooperationsausschusses}},
+  howpublished = {{\url{https://www.bmwk.de/Redaktion/DE/Dossier/erneuerbare-energien.html#id2713554}}},
+  note         = {zuletzt abgerufen am 24.09.2022.},
+  title        = {Bericht des Bund-Länder-Kooperationsausschusses zum Stand des Ausbaus der erneuerbaren Energien sowie zu Flächen, Planung und Genehmigungen für die Windenergienutzung an Land},
+  year         = {2021},
+}
+
+@Misc{BMWK2021,
+  author       = {{Bundesministerium für Wirtschaft und Klimaschutz}},
+  howpublished = {{\url{https://www.bmwk.de/Redaktion/DE/Downloads/Energie/220111_eroeffnungsbilanz_klimaschutz.pdf?__blob=publicationFile&v=22}}},
+  note         = {, zuletzt abgerufen am 24.09.2022.},
+  title        = {{Eröffnungsbilanz Klimaschutz}},
+  year         = {2021},
+}
+
+@Misc{DIBt2022,
+  author       = {{Deutsches Institut für Bautechnik}},
+  howpublished = {{\url{https://www.dibt.de/de/aktuelles/meldungen/nachricht-detail/meldung/aktualisiert-zuordnung-der-windlast-und-schneelastzonen-nach-verwaltungsgrenzen}}},
+  note         = {zuletzt abgerufen am 24.09.2022.},
+  title        = {{Zuordnung der Windlast- und Schneelastzonen nach Verwaltungsgrenzen}},
+  year         = {02.06.2022},
+}
+
+@Misc{BKG2022,
+  author       = {{Bundesamt für Kartographie und Geodäsie}},
+  howpublished = {{\url{https://gdz.bkg.bund.de/index.php/default/open-data/verwaltungsgebiete-1-5-000-000-stand-01-01-vg5000-01-01.html}}},
+  note         = {Datenlizenz Deutschland – Namensnennung – Version 2.0, zuletzt abgerufen am 24.09.2022.},
+  title        = {{Open Data, Verwaltungsgebiete 1:5 000 000, Stand 01.01. (VG5000 01.01)}},
+  year         = {01.01.2022},
+}
+
+@Misc{EEG2021,
+  author       = {Bundestag},
+  howpublished = {{\url{https://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&start=//*%5B@attr_id=%27bgbl120s3138.pdf%27%5D#__bgbl__%2F%2F*%5B%40attr_id%3D%27bgbl120s3138.pdf%27%5D__1664358389182}}},
+  note         = {, zuletzt abgerufen am 28.09.2022.},
+  title        = {{Gesetz zur Änderung des Erneuerbare-Energien-Gesetzes und weiterer energierechtlicher Vorschriften}},
+  year         = {21.12.2020},
+}
+
+@Misc{FAW2022,
+  author       = {{Fachagentur für Windenergie an Land}},
+  howpublished = {{\url{https://www.fachagentur-windenergie.de/fileadmin/files/Veroeffentlichungen/Analysen/FA_Wind_Analyse_24_Ausschreibung_Wind_an_Land.pdf}}},
+  title        = {{24. Ausschreibung für Windenergieanlagen an Land}},
+  year         = {04.2022},
+}
+
+@Misc{FAW2022a,
+  author       = {{Fachagentur für Windenergie an Land}},
+  howpublished = {{\url{https://www.fachagentur-windenergie.de/fileadmin/files/Veroeffentlichungen/Analysen/FA_Wind_Analyse_25_Ausschreibung_Wind_an_Land.pdf}}},
+  title        = {{25. Ausschreibung für Windenergieanlagen an Land (Mai 2022)}},
+  year         = {06.2022},
+}
+
+@TechReport{Quentin2021,
+  author      = {Jürgen Quentin},
+  institution = {Fachagentur Windenergie an Land},
+  title       = {{EEG 2021: Ausschreibungsspezifische Regelungen für Windenergieanlagen an Land}},
+  year        = {2021},
+  note        = {\url{https://www.fachagentur-windenergie.de/fileadmin/files/Veroeffentlichungen/EEG/FA_Wind_EEG-2021_Ausschreibungen_6Aufl_2021.pdf}, zuletzt abgerufen am 03.10.2022.},
+  type        = {techreport},
+}
+
+@Misc{Twele2015,
+  author = {Prof. Jochen Twele},
+  title  = {{Wirtschaft_Wind_V5, Vorlesungsmaterialien}},
+  year   = {10.05.2015},
+}
+
+@Misc{Windfarms,
+  author       = {{TheWindPower}},
+  howpublished = {{\urls{https://www.thewindpower.net/country_windfarms_de_2_deutschland.php}}},
+  note         = {, zuletzt abgerufen am 29.09.2022.},
+  title        = {{Liste von Windparks in Deutschland, Wind turbines and wind farms database}},
+}
+
+@Misc{FGWT6,
+  author       = {{Fördergesellschaft Windenergie}},
+  howpublished = {{\url{https://www.wind-fgw.de/wp-content/uploads/2017/11/171026_Teil6_Rev10_ST_d_preview.pdf}}},
+  title        = {TEIL 6 (TR 6)Bestimmung von Windpotenzial und Energieerträgen},
+  year         = {26.10.2017},
+}
+
+@Misc{BüGem2016,
+  author       = {{Landtag Mecklenburg-Vorpommern}},
+  howpublished = {{\url{https://www.landesrecht-mv.de/bsmv/document/jlr-WindPBüGemBGMVrahmen}}},
+  note         = {,zuletzt abgerufen am 04.10.2022.},
+  title        = {{BüGembeteilG M-V, GVOBl. M-V 2016, 258}},
+  year         = {18.05.2016},
+}
+
+@Misc{LiquidM,
+  author = {Vincent Vellguth},
+  note   = {Matlab Code},
+  title  = {liquiditaeten.m},
+  year   = {08.2022},
+}
+
+@Misc{BFH2011,
+  author       = {{Bundesfinanzhof}},
+  howpublished = {{\url{https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE201110124/}}},
+  note         = {, zuletzt Abgerufen am 04.10.2022.},
+  title        = {{Urteil vom 14. April 2011, IV R 46/09}},
+  year         = {14.04.2011},
+}
+
+@Misc{Eurocode1https://dx.doi.org/10.31030/1625598,
+  author    = {{Europäische Union}},
+  title     = {{DIN} {EN} 1991-1-4/{NA}:2010-12, Nationaler Anhang{\_}- National festgelegte Parameter{\_}- Eurocode{\_}1: Einwirkungen auf Tragwerke{\_}- Teil{\_}1-4: Allgemeine Einwirkungen{\_}- Windlasten},
+  doi       = {10.31030/1723628},
+  publisher = {Beuth Verlag {GmbH}},
+}
+
+@Misc{Eurocode1,
+  author    = {{Europäische Union}},
+  title     = {{DIN EN 1991-1-4:2010-12, Eurocode 1: Einwirkungen auf Tragwerke - Teil 1-4: Allgemeine Einwirkungen - Windlasten; Deutsche Fassung EN1991-1-4:2005 + A1:2010 + AC:2010}},
+  doi       = {10.31030/1625598},
+  publisher = {Beuth Verlag {GmbH}},
+}
+
+@Misc{MStDR2022,
+  author       = {Bundesnetzagentur},
+  howpublished = {{\url{https://www.marktstammdatenregister.de/MaStR/Datendownload}}},
+  note         = {, zuletzt abgerufen am 16.04.2022.},
+  title        = {{Datendownload vom Gesamtdatenauszug des Markstammdatenregisters, Auszug der öffentlichen Daten des Marktstammdatenregisters}},
+  year         = {2022},
+}
+
+@Misc{EEG2017UF,
+  author       = {Bundestag},
+  howpublished = {{\url{https://dip.bundestag.de/vorgang/.../74780}}},
+  note         = {, zuletzt abgerufen am 06.10.2022.},
+  title        = {Gesetz zur Einführung von Ausschreibungen für Strom aus erneuerbaren Energien und zu weiteren Änderungen des Rechts der erneuerbaren Energien (Erneuerbare-Energien-Gesetz - EEG 2016)},
+  year         = {2016},
+}
+
+@Misc{FGWReferenzV,
+  author       = {{Fördergesellschaft Windenergie}},
+  howpublished = {{\url{https://wind-fgw.de/themen/referenzertraege/}}},
+  note         = {, zuletzt abgerufen am 28.09.2022.},
+  title        = {Referenzertragsverfahren},
+}
+
+@Misc{BNetzAStatistik,
+  author       = {Bundesnetzagentur},
+  howpublished = {{\url{https://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Ausschreibungen/Wind_Onshore/BeendeteAusschreibungen/start.html}}},
+  note         = {, zuletzt abgerufen am 06.10.2022.},
+  title        = {{Download, Statistiken: Windenergieanlagen an Land - Ausschreibungen}},
+  year         = {2022},
+}
+
+@Misc{DeutschlandM,
+  author = {Vincent Vellguth},
+  note   = {Matlab Code},
+  title  = {Deutschland.m},
+  year   = {08.2022},
+}
+
+@TechReport{Lau2021,
+  author      = {Thomas Lau, Michael Memmler, Sven Schneider},
+  institution = {Umweltbundesamt},
+  title       = {Emissionsbilanz erneuerbarer EnergieträgerBestimmung der vermiedenen Emissionen im Jahr 2020},
+  year        = {2021},
+  type        = {techreport},
+}
+
+@Article{Schirwon2022,
+  author    = {Schirwon, Dana and Kornhuber, Kai and Vinke, Kira},
+  title     = {Energie-und Klimapolitik im Kontext von Russlands Krieg: Nachhaltige Ans{\"a}tze zur L{\"o}sung globaler Krisen},
+  year      = {2022},
+  publisher = {DEU},
+}
+
+@Misc{GUVM,
+  author = {Vincent Vellguth},
+  note   = {Matlab Code},
+  title  = {GUV.m},
+  year   = {08.2022},
+}
+
+@Misc{BDBIndex,
+  author       = {{enveco GmbH}},
+  howpublished = {{\url{http://www.btrdb.de/bdbindex.html}}},
+  note         = {, zuletzt abgerufen am 10.10.2022},
+  title        = {BDB-Index},
+  year         = {2022},
+}
+
+@Misc{Nordex6X,
+  author       = {{Nordex SE}},
+  howpublished = {{\url{https://www.nordex-online.com/de/product/n175-6-x/}}},
+  note         = {, zuletzt abgerufen am 10.10.2022.},
+  title        = {{Nordex N175/6.X, Windenergieanlage an Land mit über 6 Megawatt installierter Leistung}},
+  year         = {2022},
+}
+
+@Misc{Bund1999,
+  author       = {Bundesregierung},
+  howpublished = {{\url{https://dip.bundestag.de/drucksache/entwurf-eines-gesetzes-zur-f%C3%B6rderung-der-stromerzeugung-aus-erneuerbaren-energien/92965?term=14/2341&rows=25&pos=1,}}},
+  note         = {, zuletzt abgerufen am 10.10.2022.},
+  title        = {{Entwurf einesGesetzes zur Förderung der Stromerzeugung aus erneuerbaren Energien(Erneuerbare- Energien- Gesetz EEG) sowie zur Änderung desMineralölsteuergesetzes, BT-Drs. 14/2341, S. 9.}},
+  year         = {1999},
+}
+
+@Misc{IWR1,
+  author       = {{Internationales Wirtschaftsforum Regenerative Energien}},
+  howpublished = {{\url{http://www.iwr.de/re/wf/e_preis.html}}},
+  note         = {, zuletzt abgerufen am 10.10.2022.},
+  title        = {{EEG-Vergütungssätze 2000-2004}},
+}
+
+@Misc{IWR2,
+  author       = {{Internationales Wirtschaftsforum Regenerative Energien}},
+  howpublished = {{\url{http://www.iwr.de/re/wf/eeg%20windkraft.htm}}},
+  note         = {, zuletzt abgerufen am 10.10.2022.},
+  title        = {{EEG-Mindestvergütungssätze 2004 - 2008, gemäß der Fassung vom Juli 2004}},
+  number       = {{EEG-Mindestvergütungssätze 2004 - 2008, gemäß der Fassung vom Juli 2004}},
+}
+
+@Misc{IWR3,
+  author       = {{Bundesministerium für Wirtschaft und Klimaschutz}},
+  howpublished = {{\url{https://www.erneuerbare-energien.de/EE/Redaktion/DE/Gesetze-Verordnungen/eeg_2009_verguetungsdegression_bf.pdf?__blob=publicationFile&v=4}}},
+  note         = {, zuletzt abgerufen am 10.10.2022.},
+  title        = {{Vergütungssätze und Degressionsbeispiele nach dem neuen Erneuerbare-Energien-Gesetz (EEG).vom 31. Oktober 2008 mit Änderungen vom 11. August 2010}},
+  volume       = {{Internationales Wirtschaftsforum Regenerative Energien}},
+}
+
+@Misc{,
+  author       = {{Deutscher Wetterdienst}},
+  howpublished = {{\url{https://www.dwd.de/DE/leistungen/winddaten_windenergienutzer/winddaten_windenergienutzer.html}}},
+  note         = {, zuletzt abgerufen am 10.10.2022.},
+  title        = {{Winddaten für Windenergienutzer, 2. Auflage 6. Version}},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}
